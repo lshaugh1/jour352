@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #1C2827;
+    color: #FBFFFF;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 15px;
+}
+
+main {
+    background-color: #FBFFFF;
+    color: #1C2827;
+}
+
+main,
+header,
+section,
+footer {
+    padding: 5em 0;
+}
+
+header img {
+    margin: 0 auto;
+    display: block;
+    width: 25%;
+}q
+
+.nav-link {
+    color: #FBFFFF;
+    text-decoration: none;
+    letter-spacing: 1.2px;
+    padding: 1em;
+    font-weight: 200;
+    font-size: .8em;
+}
+
+.nav-link:hover {
+    color: antiquewhite;
+}
+
+h2 {
+    font-family: "Noto Serif Display", serif;
+    font-size: 1.25em;
+}
+
+b {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: .8em;
+    letter-spacing: 1px;
+    line-height: 4;
+}
+
+a {
+    text-transform: uppercase;
+    color: #1C2827;
+    text-decoration: none;
+    font-size: .8em;
+    font-weight: 700;
+}
