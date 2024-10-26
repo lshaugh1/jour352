@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    line-height: 1.25;
+    background-color: #a9998e;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+h2 {
+    color: #000000;
+}
+.callout {
+    background-color: #8ac69900;
+    padding: 1em;
+    font-size: .8em;
+    line-height: 1.5;
+    color: #21221A;
+}
+
+b {
+    color: #010000;
+}
+section {
+    margin: 1em 0;
+}
+
+main {
+    width: 75%;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: #803513;
+}
