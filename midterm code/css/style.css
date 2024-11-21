@@ -9,6 +9,7 @@ body {
    margin-left: 20px;
    margin-bottom: 10px;
    margin-right: 20px;
+
 }
 
 
@@ -23,14 +24,13 @@ body {
 
 
 .container {
-   width: 1200px;
+   width: 45%;
    height: 250px;
    margin: 0 auto;
    padding: 20px;
    background-color: #FEFEFE;
-   text-align: justify;
+   text-align: center;
    text-justify: auto;
-
 
 }
 
@@ -40,7 +40,7 @@ body {
    margin-top: 10px;
    margin-left: 20px;
    margin-bottom: 10px;
-   text-align: left;
+   text-align: center;
 }
 
 
@@ -62,7 +62,7 @@ h2 {
 }
 
 h3 {
-   text-align: justify;
+   text-align: left;
    margin: 0 auto;
    width: 50%;
    margin-bottom: 50px;
@@ -72,7 +72,7 @@ h3 {
 
 
 h4 {
-   text-align: center;
+   text-align: justify;
    width: 50%;
    margin: 0 auto;
    color: #FEFEFE;
@@ -220,4 +220,8 @@ li {
 footer {
    background-color: #FEFEFE;
    font-style: italic;
+}
+
+a {
+   color: #B82B26;
 }
