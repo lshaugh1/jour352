@@ -189,23 +189,6 @@ body {
  }
  
  
- .container-four-graphs {
-    background-color: #ef0682;
-    width: 1200px;
-    height: fit-content;
-    margin: 0 auto;
- }
- 
- 
- .img-fluid-last {
-    margin: auto;
-    margin-top: 10px;
-    width: 250px;
-    height: 250px;
-    text-align: justify;
-   
- }
- 
  
  li {
     font-size: 20px;
@@ -223,7 +206,6 @@ body {
  }
  
  footer {
-    background-color: #FEFEFE;
     font-style: italic;
  }
  
